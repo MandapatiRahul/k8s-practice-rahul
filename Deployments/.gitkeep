@@ -1,1 +1,5 @@
-
+In github we don't create FOLDER directly instead of using file create a file --name ex-Deployments/.gitkeep 
+it's create a FOLDER by using /.gitkeep 
+else it always creates a FILES
+once create a FOLDER inside that folder .gitkeep file is there .
+you want delete it.your wish
